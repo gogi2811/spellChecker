@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gogi2811.spellchecker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gogi2811.spellchecker.MyBundle
 
 class MyApplicationService {
 
